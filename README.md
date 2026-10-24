@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Shared TypeScript contracts and Zod schemas for AuthX Token Infrastructure.
-- A producer and consumer of authx-token data need to share the published type or validation contract before exchanging payloads.
+- Validate payloads for an existing AuthX token integration.
+- Share the older line's app and token schemas without assuming Authix compatibility.
 
 ## Links
 
