@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/authx-token-types",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/authx-token-types",
+  "usageRepository": "https://github.com/x12i-sdk/authx-token-types",
+  "sourceRepository": "https://github.com/x12i/authx-token-types",
+  "sourceCommit": "37935fdbcb3552ed964a2b9939f6714f82939e88",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:30:17.000250+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "0666db6f09e9e0817ded2dba2b0815320fd4840c8be7936acfa03c5e4f624a1c",
+    "manifestSha256": "042ddee36fe523fdf0942de2bb6f21d79b067c6d023e18b89a427ae5c4a7597a"
+  }
+}
